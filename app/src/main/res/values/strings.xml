@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CineHD TV</string>
+    <string name="splash_subtitle">Loading your cinema experience...</string>
+    <string name="error_no_connection">No Internet Connection</string>
+    <string name="error_no_connection_desc">Please check your network connection and try again.</string>
+    <string name="action_retry">Retry</string>
+</resources>

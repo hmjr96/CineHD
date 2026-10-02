@@ -1,0 +1,11 @@
+<resources>
+    <color name="background_dark">#0F0F0F</color>
+    <color name="surface_dark">#1A1A1A</color>
+    <color name="accent_orange">#FF6B35</color>
+    <color name="accent_orange_dark">#CC5528</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#999999</color>
+    <color name="error_red">#E53935</color>
+    <color name="ic_launcher_bg">#0F0F0F</color>
+    <color name="tv_banner_bg">#0F0F0F</color>
+</resources>
